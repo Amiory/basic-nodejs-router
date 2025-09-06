@@ -1,0 +1,11 @@
+body {
+  height: 100dvh;
+  display: flex;
+  font-family: cursive;
+  justify-content: center;
+  align-items: center;
+}
+
+body h1 {
+  font-size: 36px;
+}
